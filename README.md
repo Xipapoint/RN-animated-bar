@@ -8,5 +8,6 @@ Default state: Shows three action buttons (camera, video, and gallery) and a clo
 Expanded State: Displays a "Message" input field and a "+" button.
 Camera Access: Users can open the camera by clicking on any of the action buttons.
 
+![video_2024-11-23_03-02-37](https://github.com/user-attachments/assets/b591e633-adfc-4f77-aab3-0c0d23fcc9d0)
 
-![video_2024-11-23_02-43-46](https://github.com/user-attachments/assets/a6a7c34c-1856-4efe-b1fd-d07b33508bdd)
+
