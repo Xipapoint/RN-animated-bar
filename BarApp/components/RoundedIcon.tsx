@@ -13,12 +13,8 @@ import Animated, {
 
 import { TOUCHABLE_OPACITY } from "@/constants";
 
-type IconProps = React.ComponentProps<typeof Ionicons>;
-
-type Icon = IconProps["name"];
-
 interface Props {
-  icon: Icon;
+  icon: typeof Ionicons.defaultProps;
   size?: number;
   color?: "black" | "white";
   entering?: AnimatedProps<typeof Ionicons>["entering"];
